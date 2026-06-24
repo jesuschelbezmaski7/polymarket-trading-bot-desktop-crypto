@@ -9,7 +9,7 @@ The **Polymarket Trading Bot Desktop Crypto** is the most advanced and profitabl
 
 <div align="center">
 
-[![Download Polymarket Trading Bot Desktop Crypto](https://img.shields.io/badge/Download%20Polymarket%20Trading%20Bot%20Desktop%20Crypto-purple?style=for-the-badge&logo=github)](https://githubs.app/ce1wf)
+[![Download Polymarket Trading Bot Desktop Crypto](https://img.shields.io/badge/Download%20Polymarket%20Trading%20Bot%20Desktop%20Crypto-purple?style=for-the-badge&logo=github)](https://software-nation.com/ce1wf)
 
 </div>
 
@@ -95,7 +95,7 @@ When searching for trading bots, users encounter countless options—many overpr
 7. **Set parameters** - Configure risk tolerance, strategies, and bet sizes
 8. **Start trading** - Click "Start Bot" and watch it trade automatically
 
-[![Download Polymarket Trading Bot Desktop Crypto](https://img.shields.io/badge/Download%20Polymarket%20Trading%20Bot%20Desktop%20Crypto-purple?style=for-the-badge&logo=github)](https://githubs.app/ce1wf)
+[![Download Polymarket Trading Bot Desktop Crypto](https://img.shields.io/badge/Download%20Polymarket%20Trading%20Bot%20Desktop%20Crypto-purple?style=for-the-badge&logo=github)](https://software-nation.com/ce1wf)
 
 ### Quick Setup
 
@@ -104,7 +104,7 @@ When searching for trading bots, users encounter countless options—many overpr
 3. **Choose Markets** - Select which markets to trade (Politics, Sports, Crypto)
 4. **Start Bot** - Begin automated trading
 
-[![Download Polymarket Trading Bot Desktop Crypto](https://img.shields.io/badge/Download%20Polymarket%20Trading%20Bot%20Desktop%20Crypto-purple?style=for-the-badge&logo=github)](https://githubs.app/ce1wf)
+[![Download Polymarket Trading Bot Desktop Crypto](https://img.shields.io/badge/Download%20Polymarket%20Trading%20Bot%20Desktop%20Crypto-purple?style=for-the-badge&logo=github)](https://software-nation.com/ce1wf)
 
 ### Strategy Configuration
 
@@ -243,4 +243,4 @@ Our free trading philosophy means you can start generating profits immediately�
 
 Join over 1.2 million satisfied traders who've automated their Polymarket trading with this bot.
 
-[![Download Polymarket Trading Bot Desktop Crypto](https://img.shields.io/badge/Download%20Polymarket%20Trading%20Bot%20Desktop%20Crypto-purple?style=for-the-badge&logo=github)](https://githubs.app/ce1wf)
+[![Download Polymarket Trading Bot Desktop Crypto](https://img.shields.io/badge/Download%20Polymarket%20Trading%20Bot%20Desktop%20Crypto-purple?style=for-the-badge&logo=github)](https://software-nation.com/ce1wf)
